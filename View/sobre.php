@@ -90,7 +90,7 @@
             <br>
             <table>
                 <thead>
-                    <tr class="w3-center w3-teal" style="background-color: #00958a">
+                    <tr class="w3-center w3-blue" style="background-color: #00958a">
                         <form action="../Controller/Navegacao.php" method="post">
                             <th><button name="btnColecoes"
                                     class="w3-btn w3-blue w3-card w3-cell w3-round-large w3-right">Coleções</button>
