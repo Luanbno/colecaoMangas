@@ -1,4 +1,7 @@
-Tecnologias utilizadas:
+VISÃO GERAL:
+
+TECNOLOGIAS UTILIZADAS:
+
 PHP;
 HTML5;
 CSS3;
