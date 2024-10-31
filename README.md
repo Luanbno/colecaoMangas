@@ -1,6 +1,7 @@
 Tecnologias utilizadas:
-PHP
-HTML
-CSS
-W3CSS
-MYSQL
+PHP;
+HTML5;
+CSS3;
+W3CSS;
+MYSQL;
+VSCODE;
